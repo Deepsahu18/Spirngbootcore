@@ -31,4 +31,8 @@ public class FirstController {
         System.out.println("About method called");
         return "aboutus.html";
     }  
+
+    public String contactUS(){
+        return null;
+    }
 }
